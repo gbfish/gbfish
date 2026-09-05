@@ -14,4 +14,4 @@ I write things down. Research notes, dead ends, and corrections stay in the repo
 
 **Elsewhere**
 
-Houston, TX · equalbean@gmail.com
+Writing: [gbfish.github.io](https://gbfish.github.io) ([RSS](https://gbfish.github.io/rss.xml)) · Houston, TX · equalbean@gmail.com
