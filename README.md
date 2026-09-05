@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="David Yu — local LLM agents, MCP, quant. agent-lab task pass rates: qwen3:14b 81%, +toolshim 94%, qwen2.5-coder 0%, qwen3:8b 86%" width="100%">
+<img src="assets/banner.png" alt="Illustration: walking from mobile apps toward local LLM agents, MCP, and point-in-time data, notebook in hand" width="100%">
 
 Software engineer, 10+ years. Mobile (React Native, Swift), Rust, embedded, and lately: making AI agents actually work.
 
